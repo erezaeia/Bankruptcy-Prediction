@@ -56,13 +56,6 @@ The primary objective is to leverage financial and operational data to classify 
 
 ---
 
-## 📊 Results
-- Best performing model: **[Insert best model here, e.g., XGBoost]**
-- Achieved **ROC-AUC:** XX%
-- Successfully improved minority class detection using **SMOTE**.
-
----
-
 ## 👩‍💻 Author
 Elina Rezaeian
 [My linkedin Profile](https://www.linkedin.com/in/elina-rezaeian)
